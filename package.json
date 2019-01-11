@@ -1,0 +1,15 @@
+{
+  "name": "p5-pool",
+  "version": "0.1.0",
+  "description": "An experiment with p5.js to create a pool game",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/statox/p5-pool.git"
+  },
+  "author": "statox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/statox/p5-pool/issues"
+  },
+  "homepage": "https://github.com/statox/p5-pool#readme"
+}
